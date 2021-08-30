@@ -1,2 +1,2 @@
 # snake-array
-The cursor shadow created a snake-like effect.
+The cursor shadow creates a snake-like effect.
